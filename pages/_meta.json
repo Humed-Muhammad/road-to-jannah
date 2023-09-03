@@ -1,15 +1,19 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
   "about": {
     "title": "About",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Ask Question or Contact Us ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://wa.me/251912974103",
+    "newWindow": true
+  },
+  "Facebook page": {
+    "title": "Facebook Page 🌱",
+    "type": "page",
+    "href": "https://www.facebook.com/people/Mysteries-of-the-universe-in-Quran/100068323243963/",
     "newWindow": true
   }
 }
